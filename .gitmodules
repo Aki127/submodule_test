@@ -1,0 +1,3 @@
+[submodule "Daydream-app"]
+	path = Daydream-app
+	url = https://github.com/Aki127/Daydream-app.git
